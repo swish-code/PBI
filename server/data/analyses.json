@@ -1,0 +1,196 @@
+[
+  {
+    "id": "a_mrj05ebrmzl6",
+    "user": "admin@swishhh.net",
+    "creator": "Administrator",
+    "name": "Untitled Analysis",
+    "config": {
+      "visuals": [
+        {
+          "id": "v_0lbubdz",
+          "name": "Net Sales",
+          "measures": [
+            "net",
+            "orders",
+            "aov"
+          ],
+          "dimensions": [],
+          "order": "default",
+          "filters": {
+            "brands": [],
+            "locations": [],
+            "channels": []
+          },
+          "chartType": "auto",
+          "span": 2
+        },
+        {
+          "id": "v_8wayy0s",
+          "name": "Net Sales by Brand",
+          "measures": [
+            "net"
+          ],
+          "dimensions": [
+            "brand"
+          ],
+          "order": "default",
+          "filters": {
+            "brands": [],
+            "locations": [],
+            "channels": []
+          },
+          "chartType": "auto",
+          "span": 2
+        },
+        {
+          "id": "v_52fgzrg",
+          "name": "Net Sales by Channel",
+          "measures": [
+            "net"
+          ],
+          "dimensions": [
+            "channel"
+          ],
+          "order": "default",
+          "filters": {
+            "brands": [],
+            "locations": [],
+            "channels": []
+          },
+          "chartType": "auto",
+          "span": 2
+        },
+        {
+          "id": "v_2vl81b9",
+          "name": "Net Sales by Location",
+          "measures": [
+            "net"
+          ],
+          "dimensions": [
+            "location"
+          ],
+          "order": "default",
+          "filters": {
+            "brands": [],
+            "locations": [],
+            "channels": []
+          },
+          "chartType": "auto",
+          "span": 2
+        },
+        {
+          "id": "v_ijtu9jl",
+          "name": "Net Sales by Hour",
+          "measures": [
+            "net",
+            "orders"
+          ],
+          "dimensions": [
+            "hour",
+            "location"
+          ],
+          "order": "az",
+          "filters": {
+            "brands": [],
+            "locations": [],
+            "channels": []
+          },
+          "chartType": "heatmap",
+          "span": 2
+        }
+      ],
+      "cols": 3
+    },
+    "chartType": "auto",
+    "isShared": false,
+    "createdAt": "2026-07-13T09:10:42.375Z",
+    "updatedAt": "2026-07-13T09:10:42.375Z"
+  },
+  {
+    "id": "a_mrkh5llq8dp0",
+    "user": "admin@swishhh.net",
+    "creator": "Administrator",
+    "name": "Untitled Analysis",
+    "config": {
+      "visuals": [
+        {
+          "id": "v_fv3h3st",
+          "name": "Net Sales by Date",
+          "measures": [
+            "net"
+          ],
+          "dimensions": [
+            "date"
+          ],
+          "order": "default",
+          "filters": {
+            "brands": [],
+            "locations": [],
+            "channels": []
+          },
+          "chartType": "auto",
+          "span": 6
+        },
+        {
+          "id": "v_karexb0",
+          "name": "Net Sales",
+          "measures": [
+            "net",
+            "orders",
+            "aov"
+          ],
+          "dimensions": [],
+          "order": "default",
+          "filters": {
+            "brands": [],
+            "locations": [],
+            "channels": []
+          },
+          "chartType": "auto",
+          "span": 6
+        },
+        {
+          "id": "v_fq80z48",
+          "name": "Net Sales by Location",
+          "measures": [
+            "net"
+          ],
+          "dimensions": [
+            "location"
+          ],
+          "order": "default",
+          "filters": {
+            "brands": [],
+            "locations": [],
+            "channels": []
+          },
+          "chartType": "auto",
+          "span": 3
+        },
+        {
+          "id": "v_b1rtt5a",
+          "name": "Orders by Channel",
+          "measures": [
+            "orders"
+          ],
+          "dimensions": [
+            "channel"
+          ],
+          "order": "default",
+          "filters": {
+            "brands": [],
+            "locations": [],
+            "channels": []
+          },
+          "chartType": "auto",
+          "span": 3
+        }
+      ],
+      "cols": 1
+    },
+    "chartType": "auto",
+    "isShared": false,
+    "createdAt": "2026-07-14T09:54:31.454Z",
+    "updatedAt": "2026-07-14T09:54:34.650Z"
+  }
+]

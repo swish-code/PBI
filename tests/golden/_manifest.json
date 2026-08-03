@@ -1,0 +1,92 @@
+{
+  "brand": "BBT",
+  "range": "start=2026-07-25&end=2026-07-25",
+  "capturedFor": "phase-baseline",
+  "items": [
+    {
+      "name": "pm_kpis",
+      "bytes": 339,
+      "sha": "04ceec042c902912"
+    },
+    {
+      "name": "pm_launch_detail",
+      "bytes": 3063,
+      "sha": "5783c9e63ce715ab"
+    },
+    {
+      "name": "pm_hero",
+      "bytes": 1376,
+      "sha": "300e3418a4bd9eb2"
+    },
+    {
+      "name": "pm_category",
+      "bytes": 2294,
+      "sha": "54ba35ee0b5f0564"
+    },
+    {
+      "name": "pm_bestsellers",
+      "bytes": 2390,
+      "sha": "f91cd0353847733a"
+    },
+    {
+      "name": "pm_daypart",
+      "bytes": 264,
+      "sha": "a5e8919bda1e23bc"
+    },
+    {
+      "name": "pm_hourly",
+      "bytes": 1204,
+      "sha": "d4926d4566a5d2c4"
+    },
+    {
+      "name": "pm_cat_month",
+      "bytes": 911,
+      "sha": "08fd400b74fd1484"
+    },
+    {
+      "name": "pm_cat_detail",
+      "bytes": 249598,
+      "sha": "4d3c00fad6397508"
+    },
+    {
+      "name": "pm_cat_bucket",
+      "bytes": 8225,
+      "sha": "7d2da7f3447eaa6b"
+    },
+    {
+      "name": "pm_xa_cards",
+      "bytes": 79,
+      "sha": "cafe9e09413baced"
+    },
+    {
+      "name": "landing_head",
+      "bytes": 808,
+      "sha": "3b9ee09158d46b03"
+    },
+    {
+      "name": "landing_brand_matrix",
+      "bytes": 6503,
+      "sha": "6a0b685e10112ef0"
+    },
+    {
+      "name": "landing_channel_matrix",
+      "bytes": 36151,
+      "sha": "75c3dff416aceee1"
+    },
+    {
+      "name": "ov_channels",
+      "bytes": 1304,
+      "sha": "96ea10a8898cc44b"
+    },
+    {
+      "name": "ov_branches",
+      "bytes": 2839,
+      "sha": "76ac1c26263b414e"
+    },
+    {
+      "name": "ov_buckets",
+      "bytes": 671,
+      "sha": "318b296827b2a4b2"
+    }
+  ]
+}

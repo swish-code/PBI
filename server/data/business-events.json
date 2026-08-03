@@ -1,0 +1,108 @@
+{
+  "events": [
+    {
+      "id": "eid-fitr-2026",
+      "name": "Eid Al Fitr",
+      "type": "Religious",
+      "country": "KW",
+      "year": 2026,
+      "start": "2026-03-20",
+      "end": "2026-03-22",
+      "status": "estimated",
+      "notes": "",
+      "active": true,
+      "days": 3
+    },
+    {
+      "id": "eid-fitr-2025",
+      "name": "Eid Al Fitr",
+      "type": "Religious",
+      "country": "KW",
+      "year": 2025,
+      "start": "2025-03-30",
+      "end": "2025-04-01",
+      "status": "estimated",
+      "notes": "",
+      "active": true,
+      "days": 3
+    },
+    {
+      "id": "eid-adha-2026",
+      "name": "Eid Al Adha",
+      "type": "Religious",
+      "country": "KW",
+      "year": 2026,
+      "start": "2026-05-27",
+      "end": "2026-05-30",
+      "status": "estimated",
+      "notes": "",
+      "active": true,
+      "days": 4
+    },
+    {
+      "id": "eid-adha-2025",
+      "name": "Eid Al Adha",
+      "type": "Religious",
+      "country": "KW",
+      "year": 2025,
+      "start": "2025-06-06",
+      "end": "2025-06-09",
+      "status": "estimated",
+      "notes": "",
+      "active": true,
+      "days": 4
+    },
+    {
+      "id": "ramadan-2026",
+      "name": "Ramadan",
+      "type": "Religious",
+      "country": "KW",
+      "year": 2026,
+      "start": "2026-02-18",
+      "end": "2026-03-19",
+      "status": "estimated",
+      "notes": "",
+      "active": true,
+      "days": 30
+    },
+    {
+      "id": "ramadan-2025",
+      "name": "Ramadan",
+      "type": "Religious",
+      "country": "KW",
+      "year": 2025,
+      "start": "2025-03-01",
+      "end": "2025-03-29",
+      "status": "estimated",
+      "notes": "",
+      "active": true,
+      "days": 29
+    },
+    {
+      "id": "national-2026",
+      "name": "National & Liberation Day",
+      "type": "National",
+      "country": "KW",
+      "year": 2026,
+      "start": "2026-02-25",
+      "end": "2026-02-26",
+      "status": "estimated",
+      "notes": "",
+      "active": true,
+      "days": 2
+    },
+    {
+      "id": "national-2025",
+      "name": "National & Liberation Day",
+      "type": "National",
+      "country": "KW",
+      "year": 2025,
+      "start": "2025-02-25",
+      "end": "2025-02-26",
+      "status": "estimated",
+      "notes": "",
+      "active": true,
+      "days": 2
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "global": {
+    "productmix": {
+      "visuals": {
+        "filters": {
+          "cat": "",
+          "src": "",
+          "loc": "",
+          "prod": ""
+        },
+        "locked": {
+          "cat": false,
+          "src": false,
+          "loc": false,
+          "prod": false
+        },
+        "sel": {
+          "product": "",
+          "main": ""
+        },
+        "limits": {
+          "new_items": "5",
+          "hero": "5",
+          "bestsellers": "15"
+        },
+        "sort": {
+          "bestsellers": "qty",
+          "category": "sales"
+        }
+      }
+    }
+  },
+  "users": {
+    "122fffc5-34f7-4091-856c-8307f22ef6dd": {
+      "productmix": {
+        "active": "Default",
+        "layouts": {
+          "Default": [
+            {
+              "id": "kpis",
+              "w": 12,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "new_items",
+              "w": 6,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "hero",
+              "w": 6,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "fbt",
+              "w": 6,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "crossattach",
+              "w": 6,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "cat_perf",
+              "w": 6,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "bestsellers",
+              "w": 6,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "sales_mix",
+              "w": 12,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "cat_detail",
+              "w": 12,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "bucket",
+              "w": 12,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "cat_mix_chart",
+              "w": 4,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "daypart",
+              "w": 4,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "hourly",
+              "w": 4,
+              "hidden": false,
+              "collapsed": false
+            }
+          ]
+        }
+      },
+      "yelomix": {
+        "active": "Default",
+        "layouts": {
+          "Default": [
+            {
+              "id": "kpis",
+              "w": 12,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "new_items",
+              "w": 6,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "hero",
+              "w": 6,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "fbt",
+              "w": 6,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "crossattach",
+              "w": 6,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "cat_perf",
+              "w": 6,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "bestsellers",
+              "w": 6,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "sales_mix",
+              "w": 12,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "cat_detail",
+              "w": 12,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "menucat",
+              "w": 6,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "size",
+              "w": 4,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "pizzatype",
+              "w": 4,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "flavours",
+              "w": 4,
+              "hidden": false,
+              "collapsed": false
+            }
+          ]
+        }
+      },
+      "home": {
+        "active": "Default",
+        "layouts": {
+          "Default": [
+            {
+              "id": "home_kpis",
+              "w": 12,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "home_hourly",
+              "w": 8,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "home_story",
+              "w": 4,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "home_topbranches",
+              "w": 6,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "home_opsbranch",
+              "w": 6,
+              "hidden": false,
+              "collapsed": false
+            }
+          ]
+        }
+      },
+      "landing": {
+        "active": "Default",
+        "layouts": {
+          "Default": [
+            {
+              "id": "headline",
+              "w": 12,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "kpis",
+              "w": 12,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "story",
+              "w": 12,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "attn",
+              "w": 12,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "ops",
+              "w": 12,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "brand",
+              "w": 8,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "hourly",
+              "w": 4,
+              "hidden": false,
+              "collapsed": false
+            },
+            {
+              "id": "source",
+              "w": 12,
+              "hidden": false,
+              "collapsed": false
+            }
+          ]
+        }
+      }
+    }
+  }
+}

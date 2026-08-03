@@ -1,0 +1,428 @@
+{
+  "hours": {
+    "BBT::Ardhiya": 24,
+    "BBT::Adaliya": 24,
+    "BBT::Yard": 24,
+    "Yelo Pizza::Sabah Al Salem": 24,
+    "Yelo Pizza::Qortuba": 24,
+    "Yelo Pizza::Ardhiya": 24,
+    "Yelo Pizza::Fahaheel": 24,
+    "Yelo Pizza::Hawally": 24,
+    "Yelo Pizza::Egaila": 24,
+    "Yelo Pizza::Jaber Al Ahmed": 24,
+    "Yelo Pizza::Sabah Al Ahmed": 24,
+    "Yelo Pizza::Jleeb Al Shuyoukh": 24,
+    "Yelo Pizza::Andalous": 13,
+    "Yelo Pizza::Vibes": 14,
+    "Yelo Pizza::Abdullah Al Salem (Dahiya)": 13.5,
+    "Yelo Pizza::Jahra": 16.5,
+    "Yelo Pizza::Adaliya": 13.5,
+    "Yelo Pizza::Zahra": 15,
+    "Yelo Pizza::Salwa": 16,
+    "Yelo Pizza::Salmiya": 16,
+    "Yelo Pizza::Ishbiliya": 16,
+    "Yelo Pizza::Jabriya": 16,
+    "Yelo Pizza::Khairan": 16,
+    "Yelo Pizza::Qurain": 16,
+    "Yelo Pizza::Saad Al Abdullah": 16,
+    "Yelo Pizza::Bayan": 13.5,
+    "Shawarma Shakir::Jahra": 24,
+    "Shawarma Shakir::Ardhiya": 24,
+    "Shawarma Shakir::Egaila": 24,
+    "Shawarma Shakir::Hawally": 24,
+    "Shawarma Shakir::Bayan": 13.5,
+    "Shawarma Shakir::Qurain": 13.5,
+    "Shawarma Shakir::Rai": 16,
+    "Shawarma Shakir::Salmiya": 16,
+    "Shawarma Shakir::Kuwait City": 16,
+    "Shawarma Shakir::Sabah Al Ahmed": 16.5,
+    "BBT::Shuhada": 24,
+    "BBT::Shamiya": 13.5,
+    "BBT::Salmiya": 13.5,
+    "BBT::Mangaf": 16.5,
+    "BBT::Sabah Al Ahmed": 16.5,
+    "BBT::Bayan": 16.5,
+    "BBT::Saad Al Abdullah": 16.5,
+    "BBT::Khairan": 16.5,
+    "BBT::Umm Al Haiman": 16.5,
+    "Mishmash::Ardhiya": 24,
+    "Mishmash::Mahboula": 24,
+    "Mishmash::Jabriya": 24,
+    "Mishmash::Salmiya": 24,
+    "Mishmash::Khaithan": 24,
+    "Mishmash::Kaifan": 17,
+    "Mishmash::Qadsiya": 17,
+    "Mishmash::Salwa": 17,
+    "Mishmash::Qurain": 17,
+    "Mishmash::Mangaf": 17,
+    "Mishmash::Khairan": 17,
+    "Tabel::Qortuba": 17,
+    "Tabel::Ardhiya": 17,
+    "Tabel::Hawally": 17,
+    "Tabel::Sabah Al Salem": 17,
+    "Tabel::Bneid Al Qar": 17,
+    "Tabel::Ahmadi": 17,
+    "Tabel::Salmiya": 17,
+    "Tabel::Mahboula": 17,
+    "Tabel::Jahra": 17,
+    "Tabel::Khairan": 17,
+    "Chilli Pepper::Qortuba": 13.5,
+    "Chilli Pepper::Yard": 13.5,
+    "Chilli Pepper::Hawally": 13.5,
+    "Just C::Qortuba": 13.5,
+    "Just C::Yard": 13.5
+  },
+  "times": {
+    "Yelo Pizza::Sabah Al Salem": {
+      "open": "12:00 AM",
+      "close": "12:00 AM",
+      "raw": "24 Hrs"
+    },
+    "Yelo Pizza::Qortuba": {
+      "open": "12:00 AM",
+      "close": "12:00 AM",
+      "raw": "24 Hrs"
+    },
+    "Yelo Pizza::Ardhiya": {
+      "open": "12:00 AM",
+      "close": "12:00 AM",
+      "raw": "24 Hrs"
+    },
+    "Yelo Pizza::Fahaheel": {
+      "open": "12:00 AM",
+      "close": "12:00 AM",
+      "raw": "24 Hrs"
+    },
+    "Yelo Pizza::Hawally": {
+      "open": "12:00 AM",
+      "close": "12:00 AM",
+      "raw": "24 Hrs"
+    },
+    "Yelo Pizza::Egaila": {
+      "open": "12:00 AM",
+      "close": "12:00 AM",
+      "raw": "24 Hrs"
+    },
+    "Yelo Pizza::Jaber Al Ahmed": {
+      "open": "12:00 AM",
+      "close": "12:00 AM",
+      "raw": "24 Hrs"
+    },
+    "Yelo Pizza::Sabah Al Ahmed": {
+      "open": "12:00 AM",
+      "close": "12:00 AM",
+      "raw": "24 Hrs"
+    },
+    "Yelo Pizza::Jleeb Al Shuyoukh": {
+      "open": "12:00 AM",
+      "close": "12:00 AM",
+      "raw": "24 Hrs"
+    },
+    "Yelo Pizza::Andalous": {
+      "open": "12:00 PM",
+      "close": "01:00 AM",
+      "raw": "12:00 PM - 01:00 AM"
+    },
+    "Yelo Pizza::Vibes": {
+      "open": "12:00 PM",
+      "close": "02:00 AM",
+      "raw": "12:00 PM - 02:00 AM"
+    },
+    "Yelo Pizza::Abdullah Al Salem (Dahiya)": {
+      "open": "12:00 PM",
+      "close": "01:30 AM",
+      "raw": "12:00 PM - 01:30 AM"
+    },
+    "Yelo Pizza::Jahra": {
+      "open": "11:00 AM",
+      "close": "03:30 AM",
+      "raw": "11:00 AM - 03:30 AM"
+    },
+    "Yelo Pizza::Adaliya": {
+      "open": "12:00 PM",
+      "close": "01:30 AM",
+      "raw": "12:00 PM - 01:30 AM"
+    },
+    "Yelo Pizza::Zahra": {
+      "open": "12:00 PM",
+      "close": "03:00 AM",
+      "raw": "12:00 PM - 03:00 AM"
+    },
+    "Yelo Pizza::Salwa": {
+      "open": "12:00 PM",
+      "close": "04:00 AM",
+      "raw": "12:00 PM - 04:00 AM"
+    },
+    "Yelo Pizza::Salmiya": {
+      "open": "12:00 PM",
+      "close": "04:00 AM",
+      "raw": "12:00 PM - 04:00 AM"
+    },
+    "Yelo Pizza::Ishbiliya": {
+      "open": "12:00 PM",
+      "close": "04:00 AM",
+      "raw": "12:00 PM - 04:00 AM"
+    },
+    "Yelo Pizza::Jabriya": {
+      "open": "12:00 PM",
+      "close": "04:00 AM",
+      "raw": "12:00 PM - 04:00 AM"
+    },
+    "Yelo Pizza::Khairan": {
+      "open": "12:00 PM",
+      "close": "04:00 AM",
+      "raw": "12:00 PM - 04:00 AM"
+    },
+    "Yelo Pizza::Qurain": {
+      "open": "12:00 PM",
+      "close": "04:00 AM",
+      "raw": "12:00 PM - 04:00 AM"
+    },
+    "Yelo Pizza::Saad Al Abdullah": {
+      "open": "12:00 PM",
+      "close": "04:00 AM",
+      "raw": "12:00 PM - 04:00 AM"
+    },
+    "Yelo Pizza::Bayan": {
+      "open": "12:00 PM",
+      "close": "01:30: AM",
+      "raw": "12:00 PM - 01:30: AM"
+    },
+    "Shawarma Shakir::Jahra": {
+      "open": "12:00 AM",
+      "close": "12:00 AM",
+      "raw": "24 Hrs"
+    },
+    "Shawarma Shakir::Ardhiya": {
+      "open": "12:00 AM",
+      "close": "12:00 AM",
+      "raw": "24 Hrs"
+    },
+    "Shawarma Shakir::Egaila": {
+      "open": "12:00 AM",
+      "close": "12:00 AM",
+      "raw": "24 Hrs"
+    },
+    "Shawarma Shakir::Hawally": {
+      "open": "12:00 AM",
+      "close": "12:00 AM",
+      "raw": "24 Hrs"
+    },
+    "Shawarma Shakir::Bayan": {
+      "open": "12:00 PM",
+      "close": "01:30 AM",
+      "raw": "12:00 PM - 01:30 AM"
+    },
+    "Shawarma Shakir::Qurain": {
+      "open": "12:00 PM",
+      "close": "01:30 AM",
+      "raw": "12:00 PM - 01:30 AM"
+    },
+    "Shawarma Shakir::Rai": {
+      "open": "12:00 PM",
+      "close": "04:00 AM",
+      "raw": "12:00 PM - 04:00 AM"
+    },
+    "Shawarma Shakir::Salmiya": {
+      "open": "12:00 PM",
+      "close": "04:00 AM",
+      "raw": "12:00 PM - 04:00 AM"
+    },
+    "Shawarma Shakir::Kuwait City": {
+      "open": "12:00 PM",
+      "close": "04:00 AM",
+      "raw": "12:00 PM - 04:00 AM"
+    },
+    "Shawarma Shakir::Sabah Al Ahmed": {
+      "open": "12:00 PM",
+      "close": "04:30 AM",
+      "raw": "12:00 PM - 04:30 AM"
+    },
+    "BBT::Yard": {
+      "open": "12:00 AM",
+      "close": "12:00 AM",
+      "raw": "24 Hrs"
+    },
+    "BBT::Ardhiya": {
+      "open": "12:00 AM",
+      "close": "12:00 AM",
+      "raw": "24 Hrs"
+    },
+    "BBT::Shuhada": {
+      "open": "12:00 AM",
+      "close": "12:00 AM",
+      "raw": "24 Hrs"
+    },
+    "BBT::Shamiya": {
+      "open": "12:00 PM",
+      "close": "01:30 AM",
+      "raw": "12:00 PM - 01:30 AM"
+    },
+    "BBT::Salmiya": {
+      "open": "12:00 PM",
+      "close": "01:30 AM",
+      "raw": "12:00 PM - 01:30 AM"
+    },
+    "BBT::Mangaf": {
+      "open": "12:00 PM",
+      "close": "04:30 AM",
+      "raw": "12:00 PM - 04:30 AM"
+    },
+    "BBT::Sabah Al Ahmed": {
+      "open": "12:00 PM",
+      "close": "04:30 AM",
+      "raw": "12:00 PM - 04:30 AM"
+    },
+    "BBT::Bayan": {
+      "open": "12:00 PM",
+      "close": "04:30 AM",
+      "raw": "12:00 PM - 04:30 AM"
+    },
+    "BBT::Saad Al Abdullah": {
+      "open": "12:00 PM",
+      "close": "04:30 AM",
+      "raw": "12:00 PM - 04:30 AM"
+    },
+    "BBT::Khairan": {
+      "open": "12:00 PM",
+      "close": "04:30 AM",
+      "raw": "12:00 PM - 04:30 AM"
+    },
+    "BBT::Umm Al Haiman": {
+      "open": "12:00 PM",
+      "close": "04:30 AM",
+      "raw": "12:00 PM - 04:30 AM"
+    },
+    "Mishmash::Ardhiya": {
+      "open": "12:00 AM",
+      "close": "12:00 AM",
+      "raw": "24 Hrs"
+    },
+    "Mishmash::Mahboula": {
+      "open": "12:00 AM",
+      "close": "12:00 AM",
+      "raw": "24 Hrs"
+    },
+    "Mishmash::Jabriya": {
+      "open": "12:00 AM",
+      "close": "12:00 AM",
+      "raw": "24 Hrs"
+    },
+    "Mishmash::Salmiya": {
+      "open": "12:00 AM",
+      "close": "12:00 AM",
+      "raw": "24 Hrs"
+    },
+    "Mishmash::Khaithan": {
+      "open": "12:00 AM",
+      "close": "12:00 AM",
+      "raw": "24 Hrs"
+    },
+    "Mishmash::Kaifan": {
+      "open": "10:00 AM",
+      "close": "03:00 AM",
+      "raw": "10:00 AM - 03:00 AM"
+    },
+    "Mishmash::Qadsiya": {
+      "open": "10:00 AM",
+      "close": "03:00 AM",
+      "raw": "10:00 AM - 03:00 AM"
+    },
+    "Mishmash::Salwa": {
+      "open": "10:00 AM",
+      "close": "03:00 AM",
+      "raw": "10:00 AM - 03:00 AM"
+    },
+    "Mishmash::Qurain": {
+      "open": "10:00 AM",
+      "close": "03:00 AM",
+      "raw": "10:00 AM - 03:00 AM"
+    },
+    "Mishmash::Mangaf": {
+      "open": "11:00 AM",
+      "close": "04:00 AM",
+      "raw": "11:00 AM - 04:00 AM"
+    },
+    "Mishmash::Khairan": {
+      "open": "11:00 AM",
+      "close": "04:00 AM",
+      "raw": "11:00 AM - 04:00 AM"
+    },
+    "Tabel::Qortuba": {
+      "open": "10:00 AM",
+      "close": "03:00 AM",
+      "raw": "10:00 AM - 03:00 AM"
+    },
+    "Tabel::Ardhiya": {
+      "open": "11:00 AM",
+      "close": "04:00 AM",
+      "raw": "11:00 AM - 04:00 AM"
+    },
+    "Tabel::Hawally": {
+      "open": "11:00 AM",
+      "close": "04:00 AM",
+      "raw": "11:00 AM - 04:00 AM"
+    },
+    "Tabel::Sabah Al Salem": {
+      "open": "11:00 AM",
+      "close": "04:00 AM",
+      "raw": "11:00 AM - 04:00 AM"
+    },
+    "Tabel::Bneid Al Qar": {
+      "open": "11:00 AM",
+      "close": "04:00 AM",
+      "raw": "11:00 AM - 04:00 AM"
+    },
+    "Tabel::Ahmadi": {
+      "open": "11:00 AM",
+      "close": "04:00 AM",
+      "raw": "11:00 AM - 04:00 AM"
+    },
+    "Tabel::Salmiya": {
+      "open": "11:00 AM",
+      "close": "04:00 AM",
+      "raw": "11:00 AM - 04:00 AM"
+    },
+    "Tabel::Mahboula": {
+      "open": "11:00 AM",
+      "close": "04:00 AM",
+      "raw": "11:00 AM - 04:00 AM"
+    },
+    "Tabel::Jahra": {
+      "open": "11:00 AM",
+      "close": "04:00 AM",
+      "raw": "11:00 AM - 04:00 AM"
+    },
+    "Tabel::Khairan": {
+      "open": "11:00 AM",
+      "close": "04:00 AM",
+      "raw": "11:00 AM - 04:00 AM"
+    },
+    "Chilli Pepper::Qortuba": {
+      "open": "12:00 PM",
+      "close": "01:30 AM",
+      "raw": "12:00 PM - 01:30 AM"
+    },
+    "Chilli Pepper::Yard": {
+      "open": "12:00 PM",
+      "close": "01:30 AM",
+      "raw": "12:00 PM - 01:30 AM"
+    },
+    "Chilli Pepper::Hawally": {
+      "open": "12:00 PM",
+      "close": "01:30 AM",
+      "raw": "12:00 PM - 01:30 AM"
+    },
+    "Just C::Qortuba": {
+      "open": "12:00 PM",
+      "close": "01:30 AM",
+      "raw": "12:00 PM - 01:30 AM"
+    },
+    "Just C::Yard": {
+      "open": "12:00 PM",
+      "close": "01:30 AM",
+      "raw": "12:00 PM - 01:30 AM"
+    }
+  },
+  "default": 13.5
+}

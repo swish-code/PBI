@@ -1,0 +1,932 @@
+[
+  {
+    "brand": "Yelo Pizza",
+    "branch": "Sabah Al Salem",
+    "address": "Sabah Al-Salem - Block 2 - St 200 - Parcel 9 - PACI NO 92452345",
+    "hours": "24 Hrs",
+    "hoursPerDay": 24,
+    "mapUrl": "https://maps.app.goo.gl/UZeZb9CXepTwGg1e9",
+    "lat": 29.2469546,
+    "lng": 48.0835345
+  },
+  {
+    "brand": "Yelo Pizza",
+    "branch": "Qortuba",
+    "address": "Qortuba - Block 5 - Abu Ayob Al-Ansary St - Parcel 900006 - PACI",
+    "hours": "24 Hrs",
+    "hoursPerDay": 24,
+    "mapUrl": "https://maps.app.goo.gl/NWWXp9V9pXqwig8p8",
+    "lat": 29.3128374,
+    "lng": 47.9850869
+  },
+  {
+    "brand": "Yelo Pizza",
+    "branch": "Ardiya",
+    "address": "Ardhiya Herafiya - Block 3 - Parcel 35 - PACI NO 95076015",
+    "hours": "24 Hrs",
+    "hoursPerDay": 24,
+    "mapUrl": "https://maps.app.goo.gl/VJfQmQGvi4xjutEX8",
+    "lat": 29.2956628,
+    "lng": 47.9068772
+  },
+  {
+    "brand": "Yelo Pizza",
+    "branch": "Fahaheel",
+    "address": "Fahaheel - Block 2 - Parcel 900020 - PACI NO 96336093",
+    "hours": "24 Hrs",
+    "hoursPerDay": 24,
+    "mapUrl": "https://maps.app.goo.gl/7pFaJe5icwwKcRhQA",
+    "lat": 29.0856036,
+    "lng": 48.1179529
+  },
+  {
+    "brand": "Yelo Pizza",
+    "branch": "Midan Hawally",
+    "address": "Salmiya - Block 11 - Hmoud Al-Naser St - Parcel 1209 - Building 39 - PACI NO 90272391",
+    "hours": "24 Hrs",
+    "hoursPerDay": 24,
+    "mapUrl": "https://maps.app.goo.gl/mwiaz7FbLgbX9oTa9",
+    "lat": 29.3403615,
+    "lng": 48.0363429
+  },
+  {
+    "brand": "Yelo Pizza",
+    "branch": "Egaila",
+    "address": "Egaila - Block 5 - Parcel 54 - PACI NO 94402894",
+    "hours": "24 Hrs",
+    "hoursPerDay": 24,
+    "mapUrl": "https://maps.app.goo.gl/khdcEy9gY3GGna2e7",
+    "lat": 29.1726443,
+    "lng": 48.0911431
+  },
+  {
+    "brand": "Yelo Pizza",
+    "branch": "Jaber Al Ahmed",
+    "address": "Jaber Al-Ahmad - Block 4 - St 405 - Parcel 900030 - PACI NO 96198364",
+    "hours": "24 Hrs",
+    "hoursPerDay": 24,
+    "mapUrl": "https://maps.app.goo.gl/VfSDqgMfsW8BjDpj8",
+    "lat": 29.344177,
+    "lng": 47.7536869
+  },
+  {
+    "brand": "Yelo Pizza",
+    "branch": "Sabah Al Ahmed",
+    "address": "Sabah Al-Ahmad 4 - Block 6 - St 20 - Parcel 900008 - PACI NO 94411424",
+    "hours": "24 Hrs",
+    "hoursPerDay": 24,
+    "mapUrl": "https://maps.app.goo.gl/899ghvxRes9bnujf9",
+    "lat": 28.7690571,
+    "lng": 48.0623876
+  },
+  {
+    "brand": "Yelo Pizza",
+    "branch": "Jleeb",
+    "address": "Jleeb Al-Shiyoukh - Block 1 - St 101 - Parcel 900026 - PACI NO",
+    "hours": "24 Hrs",
+    "hoursPerDay": 24,
+    "mapUrl": "https://maps.app.goo.gl/i6b81Gg1CpEdSDbK6",
+    "lat": 29.2609555,
+    "lng": 47.9360524
+  },
+  {
+    "brand": "Yelo Pizza",
+    "branch": "Andalous",
+    "address": "Andalus - Block 3 - St 4 - Parcel 221 - PACI NO 90622283",
+    "hours": "12:00 PM - 01:00 AM",
+    "hoursPerDay": 13,
+    "mapUrl": "https://maps.app.goo.gl/639emqjiqTJKSv8w5",
+    "lat": 29.3013043,
+    "lng": 47.881051
+  },
+  {
+    "brand": "Yelo Pizza",
+    "branch": "Vibes",
+    "address": "Abu Ftaira - Block 11 - St 53 - Parcel 313 - Commercial Building 16 - PACI NO 94432153",
+    "hours": "12:00 PM - 02:00 AM",
+    "hoursPerDay": 14,
+    "mapUrl": "https://maps.app.goo.gl/YY25GsnRxwmSvfq67",
+    "lat": 29.2092679,
+    "lng": 48.1025361
+  },
+  {
+    "brand": "Yelo Pizza",
+    "branch": "Abdulla Al-Salem",
+    "address": "Abdulla Al-Salem - Block 3 - Sanaa' St - Parcel 900048 - PACI NO 96643499",
+    "hours": "12:00 PM - 01:30 AM",
+    "hoursPerDay": 13.5,
+    "mapUrl": "https://maps.app.goo.gl/8eDL1G8UxHsL9rRs7",
+    "lat": 29.3529868,
+    "lng": 47.9799307
+  },
+  {
+    "brand": "Yelo Pizza",
+    "branch": "Jahra",
+    "address": "Jahra - Block 2 - Parcel 2048 - PACI NO 92461428",
+    "hours": "11:00 AM - 03:30 AM",
+    "hoursPerDay": 16.5,
+    "mapUrl": "https://maps.app.goo.gl/EE3AmT4wghFUM8N36",
+    "lat": 29.3530016,
+    "lng": 47.6710761
+  },
+  {
+    "brand": "Yelo Pizza",
+    "branch": "Adailiya",
+    "address": "Adailiya - Block 3 - Abu Al-Aswad Al-Do'alee La St - Parcel 900006 - PACI NO 90176463",
+    "hours": "12:00 PM - 01:30 AM",
+    "hoursPerDay": 13.5,
+    "mapUrl": "https://maps.app.goo.gl/ERnE6ybcpD59LQV46",
+    "lat": 29.3234294,
+    "lng": 47.9838684
+  },
+  {
+    "brand": "Yelo Pizza",
+    "branch": "Zahraa",
+    "address": "Zahra - Block 8 - St 717 - Parcel 900011 - PACI NO 95573855",
+    "hours": "12:00 PM - 03:00 AM",
+    "hoursPerDay": 15,
+    "mapUrl": "https://maps.app.goo.gl/wk3A8mAbRBLRDrCD9",
+    "lat": 29.271783,
+    "lng": 47.9909956
+  },
+  {
+    "brand": "Yelo Pizza",
+    "branch": "Salwa",
+    "address": "Salwa - Block 2 - St 1 - Parcel 315 - PACI NO 93453833",
+    "hours": "12:00 PM - 04:00 AM",
+    "hoursPerDay": 16,
+    "mapUrl": "https://maps.app.goo.gl/NE4A6GDjBM63yQSz9",
+    "lat": 29.306233,
+    "lng": 48.0687601
+  },
+  {
+    "brand": "Yelo Pizza",
+    "branch": "Salmiya",
+    "address": "Salmiya - Block 2 - Hamad Al-Mubarak St - Parcel 239 - Building 96 - PACI NO 94333446",
+    "hours": "12:00 PM - 04:00 AM",
+    "hoursPerDay": 16,
+    "mapUrl": "https://maps.app.goo.gl/Lz1AmufaYaRYf1KR8",
+    "lat": 29.3427648,
+    "lng": 48.085702
+  },
+  {
+    "brand": "Yelo Pizza",
+    "branch": "Ishbiliya ( CLOSED )",
+    "address": "Ashbeliah - Block 3 - St 315 - Parcel 900014 - PACI NO 93986162",
+    "hours": "12:00 PM - 04:00 AM",
+    "hoursPerDay": 16,
+    "mapUrl": "https://maps.app.goo.gl/o72a4tk4k19HYgk8A",
+    "lat": 29.2734536,
+    "lng": 47.9341215
+  },
+  {
+    "brand": "Yelo Pizza",
+    "branch": "Jabriya",
+    "address": "Jabriya - Block 1Ø§ - St 9 - Parcel 177 - Mall 11 - PACI NO 94333999",
+    "hours": "12:00 PM - 04:00 AM",
+    "hoursPerDay": 16,
+    "mapUrl": "https://maps.app.goo.gl/KVFtZf3DaHe7WMz7A",
+    "lat": 29.3247084,
+    "lng": 48.018397
+  },
+  {
+    "brand": "Yelo Pizza",
+    "branch": "Al Khairan",
+    "address": "Sabah Al-Ahmad Al-marine - Block A1 - Parcel 709 - PACI NO 95083063",
+    "hours": "12:00 PM - 04:00 AM",
+    "hoursPerDay": 16,
+    "mapUrl": "https://maps.app.goo.gl/GiQxuWPZhrsXpC8K8",
+    "lat": 28.6672595,
+    "lng": 48.3699474
+  },
+  {
+    "brand": "Yelo Pizza",
+    "branch": "Qurain",
+    "address": "Mubarak Al-Kabeer - Block 4 - St 252 - Parcel 900025 - PACI NO 93308871",
+    "hours": "12:00 PM - 04:00 AM",
+    "hoursPerDay": 16,
+    "mapUrl": "https://maps.app.goo.gl/MLnqD6fBbFwxfxAQ8",
+    "lat": 29.1880211,
+    "lng": 48.0787774
+  },
+  {
+    "brand": "Yelo Pizza",
+    "branch": "Saad Al - Abdullah",
+    "address": "Saad Al-Abdulla - Block 8 - St 24 - Parcel 900079 - PACI NO 96340746",
+    "hours": "12:00 PM - 04:00 AM",
+    "hoursPerDay": 16,
+    "mapUrl": "https://maps.app.goo.gl/CMeGNZ71y9njE148A",
+    "lat": 29.3211739,
+    "lng": 47.7169788
+  },
+  {
+    "brand": "Yelo Pizza",
+    "branch": "Bayan",
+    "address": "Bayan - Block 2 - Road 13 - Yelo Pizza",
+    "hours": "12:00 PM - 01:30: AM",
+    "hoursPerDay": 13.5,
+    "mapUrl": "https://maps.app.goo.gl/SDMD4U83R3ZyPdTN6",
+    "lat": 29.305257,
+    "lng": 48.0438132
+  },
+  {
+    "brand": "Shawarma Shakir",
+    "branch": "Jahra",
+    "address": "Jahra - Block 3-Ain Galout Street",
+    "hours": "24 Hrs",
+    "hoursPerDay": 24,
+    "mapUrl": "https://maps.app.goo.gl/RXzBjgxGoFgmuJp49",
+    "lat": 29.354825,
+    "lng": 47.6689871
+  },
+  {
+    "brand": "Shawarma Shakir",
+    "branch": "Ardiya",
+    "address": "Ardiya - Block 4 - Mohamed Nazal Al-Measeb st next to The Platform Complex",
+    "hours": "24 Hrs",
+    "hoursPerDay": 24,
+    "mapUrl": "https://maps.app.goo.gl/JgxrjoUvoviwq51u5",
+    "lat": 29.2951446,
+    "lng": 47.9160085
+  },
+  {
+    "brand": "Shawarma Shakir",
+    "branch": "Egaila",
+    "address": "Egaila - Block 5",
+    "hours": "24 Hrs",
+    "hoursPerDay": 24,
+    "mapUrl": "https://maps.app.goo.gl/EqmV8CfYdFc8gNkH7",
+    "lat": 29.1729585,
+    "lng": 48.0936831
+  },
+  {
+    "brand": "Shawarma Shakir",
+    "branch": "Hawally",
+    "address": "Hawally - Block 4 - Al Muthanna St",
+    "hours": "24 Hrs",
+    "hoursPerDay": 24,
+    "mapUrl": "https://maps.app.goo.gl/88KH8MJpxxpu4Bzu9",
+    "lat": 29.3401595,
+    "lng": 48.0254221
+  },
+  {
+    "brand": "Shawarma Shakir",
+    "branch": "Bayan",
+    "address": "Bayan - Block 2 - Road 13 - Parcel 900024 - PACI NO 96379894",
+    "hours": "12:00 PM - 01:30 AM",
+    "hoursPerDay": 13.5,
+    "mapUrl": "https://maps.app.goo.gl/ztG91QxVHNgs64o86",
+    "lat": 29.3052738,
+    "lng": 48.0436442
+  },
+  {
+    "brand": "Shawarma Shakir",
+    "branch": "Al-Qurain",
+    "address": "Aswaaq al qurain beside oncost",
+    "hours": "12:00 PM - 01:30 AM",
+    "hoursPerDay": 13.5,
+    "mapUrl": "https://maps.app.goo.gl/ryqzkimw84rBFq6X7",
+    "lat": 29.1977982,
+    "lng": 48.0471017
+  },
+  {
+    "brand": "Shawarma Shakir",
+    "branch": "Al-Rai",
+    "address": "Al rai behind safat al ghanim beside volvo company",
+    "hours": "12:00 PM - 04:00 AM",
+    "hoursPerDay": 16,
+    "mapUrl": "https://maps.app.goo.gl/7PF1ZJmYfpuUxUhC6",
+    "lat": 29.3076681,
+    "lng": 47.9353776
+  },
+  {
+    "brand": "Shawarma Shakir",
+    "branch": "Salmiya",
+    "address": "Salem Al Mubarak Street Beside Al fanar complex ( Block 4 )",
+    "hours": "12:00 PM - 04:00 AM",
+    "hoursPerDay": 16,
+    "mapUrl": "https://maps.app.goo.gl/CaqXksSnw5cyGsH48",
+    "lat": 29.3408873,
+    "lng": 48.0723101
+  },
+  {
+    "brand": "Shawarma Shakir",
+    "branch": "City",
+    "address": "Sharq - Jaber Al-Mubarak St, Kuwait City",
+    "hours": "12:00 PM - 04:00 AM",
+    "hoursPerDay": 16,
+    "mapUrl": "https://maps.app.goo.gl/q6LEH1rF1GAjFYBy7",
+    "lat": 29.3824284,
+    "lng": 47.9893475
+  },
+  {
+    "brand": "Shawarma Shakir",
+    "branch": "Sabah Al Ahmed",
+    "address": "Sabah Al Ahmed Residental  - Co-op",
+    "hours": "12:00 PM - 04:30 AM",
+    "hoursPerDay": 16.5,
+    "mapUrl": "https://maps.app.goo.gl/vwFptrJvD6vDmJjG6",
+    "lat": 28.7689989,
+    "lng": 48.0653331
+  },
+  {
+    "brand": "BBT",
+    "branch": "Adailiay",
+    "address": "Adailiya Block 3 Street 39 Co Op 3",
+    "hours": "24 Hrs",
+    "hoursPerDay": 24,
+    "mapUrl": "https://goo.gl/maps/EYp4PTQDqjSSxRYV9",
+    "lat": 29.3232772,
+    "lng": 47.9862208
+  },
+  {
+    "brand": "BBT",
+    "branch": "Yard",
+    "address": "Fnaitees - Block 5 Yard Mall",
+    "hours": "24 Hrs",
+    "hoursPerDay": 24,
+    "mapUrl": "https://goo.gl/maps/YUmH5EgZdoV4gFfY6",
+    "lat": 29.2148247,
+    "lng": 48.1010051
+  },
+  {
+    "brand": "BBT",
+    "branch": "Ardiya",
+    "address": "Ardhiya Herafiya - Block 3 - Parcel 54 - PACI NO 94187442",
+    "hours": "24 Hrs",
+    "hoursPerDay": 24,
+    "mapUrl": "https://maps.app.goo.gl/GcqEMzjJa4DyjeXS7",
+    "lat": 29.2941064,
+    "lng": 47.9107
+  },
+  {
+    "brand": "BBT",
+    "branch": "Shuhada",
+    "address": "Shuhada - Block 4 - Street Sulieman Allahaib",
+    "hours": "24 Hrs",
+    "hoursPerDay": 24,
+    "mapUrl": "https://maps.app.goo.gl/UGb26uR5ciCnJcfaA?g_st=ic",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "brand": "BBT",
+    "branch": "Shamiya",
+    "address": "Shamiya block 9 Street 90 beside small Co Op",
+    "hours": "12:00 PM - 01:30 AM",
+    "hoursPerDay": 13.5,
+    "mapUrl": "https://goo.gl/maps/xvqm13Dh1sDfNMWD7",
+    "lat": 29.3487541,
+    "lng": 47.9707627
+  },
+  {
+    "brand": "BBT",
+    "branch": "Hilltop",
+    "address": "Kuwait City Street 141",
+    "hours": "12:00 PM - 01:30 AM",
+    "hoursPerDay": 13.5,
+    "mapUrl": "https://goo.gl/maps/dDD6KjHVcBqi9KL29",
+    "lat": 29.3824705,
+    "lng": 47.9931907
+  },
+  {
+    "brand": "BBT",
+    "branch": "Salmiya ( CLOSED )",
+    "address": "Salmiya - Block 5 - Bahrain Street - Hamad Al-Ghammaz Complex - near Salmiya Co op",
+    "hours": "12:00 PM - 01:30 AM",
+    "hoursPerDay": 13.5,
+    "mapUrl": "https://goo.gl/maps/pzwp2wmW4ppkJQyT7",
+    "lat": 29.3376986,
+    "lng": 48.0801998
+  },
+  {
+    "brand": "BBT",
+    "branch": "Mangaf",
+    "address": "Mangaf - Block 4 - Street 100 - Building 900032",
+    "hours": "12:00 PM - 04:30 AM",
+    "hoursPerDay": 16.5,
+    "mapUrl": "https://maps.app.goo.gl/8tA4fXFTgUaBQ4gJ8",
+    "lat": 29.1048667,
+    "lng": 48.1248537
+  },
+  {
+    "brand": "BBT",
+    "branch": "Sabah Al Ahmed",
+    "address": "Sabah Al-Ahmad 5 - Block 5Â - Street 40 - Sabah Al-Ahmad Co-op 5 E",
+    "hours": "12:00 PM - 04:30 AM",
+    "hoursPerDay": 16.5,
+    "mapUrl": "https://maps.app.goo.gl/rT7XLwyqPs9A9BXR6",
+    "lat": 28.7802164,
+    "lng": 48.0841295
+  },
+  {
+    "brand": "BBT",
+    "branch": "Bayan",
+    "address": "Bayan - Block 2 - Road 13 - Parcel 900024 - PACI NO 96379894",
+    "hours": "12:00 PM - 04:30 AM",
+    "hoursPerDay": 16.5,
+    "mapUrl": "https://maps.app.goo.gl/ztG91QxVHNgs64o86",
+    "lat": 29.3052738,
+    "lng": 48.0436442
+  },
+  {
+    "brand": "BBT",
+    "branch": "Saad Al-Abdullah",
+    "address": "Saad Al-Abdullah - Block 8 - street 24 - Plot 900079",
+    "hours": "12:00 PM - 04:30 AM",
+    "hoursPerDay": 16.5,
+    "mapUrl": "https://maps.app.goo.gl/CP9tv5mvH2yFFqRm9",
+    "lat": 29.3211565,
+    "lng": 47.714416
+  },
+  {
+    "brand": "BBT",
+    "branch": "Khairan",
+    "address": "Sabah Al-Ahmad Al-marine - Block A3 - Khiran Square",
+    "hours": "12:00 PM - 04:30 AM",
+    "hoursPerDay": 16.5,
+    "mapUrl": "https://maps.app.goo.gl/Mzu3tf15cD9WsDqM7",
+    "lat": 28.6783933,
+    "lng": 48.3324504
+  },
+  {
+    "brand": "BBT",
+    "branch": "Om Al-Haiman",
+    "address": "Ali Subah al salem Block 3 St 16 - BBT",
+    "hours": "12:00 PM - 04:30 AM",
+    "hoursPerDay": 16.5,
+    "mapUrl": "https://maps.app.goo.gl/3W3VBJNVBiYxpMmR8",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "brand": "Pattie Pattie ",
+    "branch": "Salmiya ( CLOSED )",
+    "address": "Salmiya - Block 5 - Bahrain St - Same building of Gulf Bank - Mezanin Floor",
+    "hours": "12:00 PM - 01:30 AM",
+    "hoursPerDay": 13.5,
+    "mapUrl": "https://maps.app.goo.gl/1kbbEVPa8EdhgMAw5",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "brand": "Pattie Pattie ",
+    "branch": "Adailiya",
+    "address": "Adailiya - Block 4 - Sami Qasim Al Mishri St - Pattie Pattie",
+    "hours": "12:00 PM - 01:00 AM",
+    "hoursPerDay": 13,
+    "mapUrl": "https://maps.app.goo.gl/ZEJNpyTYZnps8izV8",
+    "lat": 29.3312493,
+    "lng": 47.9868944
+  },
+  {
+    "brand": "Pattie Pattie ",
+    "branch": "Mishref",
+    "address": "Mubarak Al-Abdullah - Block 6 - Street 321 - Mishref Cooperative Society Mall (West Mishref)",
+    "hours": "12:00 PM - 04:30 AM",
+    "hoursPerDay": 16.5,
+    "mapUrl": "https://maps.app.goo.gl/VeLYoSjrHSyU4tUe6",
+    "lat": 29.2727703,
+    "lng": 48.0451796
+  },
+  {
+    "brand": "Pattie Pattie ",
+    "branch": "Ardiya",
+    "address": "Ardiya - Block 2 - Infront of fixly Alghanim -",
+    "hours": "12:00 PM - 04:30 AM",
+    "hoursPerDay": 16.5,
+    "mapUrl": "https://maps.app.goo.gl/uu3FpbNs7dusKwdq5",
+    "lat": 29.2932482,
+    "lng": 47.9079938
+  },
+  {
+    "brand": "Slice ",
+    "branch": "Jahra",
+    "address": "Jahra - Block 2 - St 101 - Parcel 2035",
+    "hours": "12:00 PM - 01:30 AM",
+    "hoursPerDay": 13.5,
+    "mapUrl": "https://maps.app.goo.gl/aSwhaSETnZPhdRo29",
+    "lat": 29.3531958,
+    "lng": 47.6711181
+  },
+  {
+    "brand": "Pattie Pattie ",
+    "branch": "Yard",
+    "address": "Fnaitees - Block 5 Yard Mall",
+    "hours": "12:00 PM - 04:30 AM",
+    "hoursPerDay": 16.5,
+    "mapUrl": "https://maps.app.goo.gl/NS6wHDW8Lnm98F5v5",
+    "lat": 29.2150263,
+    "lng": 48.1035632
+  },
+  {
+    "brand": "Pattie Pattie ",
+    "branch": "Hawally",
+    "address": "Hawally - Block 4 - Al Muthanna St",
+    "hours": "12:00 PM - 04:30 AM",
+    "hoursPerDay": 16.5,
+    "mapUrl": "https://maps.app.goo.gl/YZAsZ8vWpnm2TCyX8",
+    "lat": 29.3399325,
+    "lng": 48.0253857
+  },
+  {
+    "brand": "Slice ",
+    "branch": "Adailiya",
+    "address": "Adailiya - Block 2 - St 28 - Parcel 900004",
+    "hours": "12:00 PM - 01:30 AM",
+    "hoursPerDay": 13.5,
+    "mapUrl": "https://maps.app.goo.gl/SmZkkjNeaxhpTtEE6",
+    "lat": 29.3231773,
+    "lng": 47.9751244
+  },
+  {
+    "brand": "Slice ",
+    "branch": "Salmiya",
+    "address": "Salmiya - Block 5 - Bahrain St - Same building of Gulf Bank - Mezanin Floor",
+    "hours": "12:00 PM - 01:30 AM",
+    "hoursPerDay": 13.5,
+    "mapUrl": "https://maps.app.goo.gl/a2zmbmm5WvQQJinc6",
+    "lat": 29.3382687,
+    "lng": 48.0798438
+  },
+  {
+    "brand": "Slice ",
+    "branch": "Ardiya",
+    "address": "Ardhiya Herafiya - Block 3 - Parcel 54",
+    "hours": "12:00 PM - 01:30 AM",
+    "hoursPerDay": 13.5,
+    "mapUrl": "https://maps.app.goo.gl/rY7PCfEbSTASdT999",
+    "lat": 29.2933767,
+    "lng": 47.907901
+  },
+  {
+    "brand": "Slice ",
+    "branch": "Jahra",
+    "address": "Jahra - Block 2 - St 101 - Parcel 2035",
+    "hours": "12:00 PM - 01:30 AM",
+    "hoursPerDay": 13.5,
+    "mapUrl": "https://maps.app.goo.gl/jvjDFCENv9NuJHZy8",
+    "lat": 29.3527024,
+    "lng": 47.6718717
+  },
+  {
+    "brand": "Slice ",
+    "branch": "City",
+    "address": "Qibla - Block 10 - Abdullah Al-Salem St - Parcel 800461",
+    "hours": "12:00 PM - 01:30 AM",
+    "hoursPerDay": 13.5,
+    "mapUrl": "https://maps.app.goo.gl/hCEYNZGCF67PXAGc7",
+    "lat": 29.3702083,
+    "lng": 47.9739264
+  },
+  {
+    "brand": "Slice ",
+    "branch": "Mishref",
+    "address": "Mubarak Al-Abdullah - Block 2 - St 209 - Parcel 900009",
+    "hours": "12:00 PM - 04:30 AM",
+    "hoursPerDay": 16.5,
+    "mapUrl": "https://maps.app.goo.gl/PPrZaqiAEzRfj516A",
+    "lat": 29.2809338,
+    "lng": 48.0424977
+  },
+  {
+    "brand": "Slice ",
+    "branch": "Yard Mall",
+    "address": "Fnaitees - Block 5 Yard Mall",
+    "hours": "12:00 PM - 04:30 AM",
+    "hoursPerDay": 16.5,
+    "mapUrl": "https://goo.gl/maps/YUmH5EgZdoV4gFfY6",
+    "lat": 29.2148247,
+    "lng": 48.1010051
+  },
+  {
+    "brand": "Mishmash",
+    "branch": "Ardiya",
+    "address": "Ardiya Herfiya - Block 5 - Homoud Al-Jaber Al-Sabah Rd - Beside 45 Min. Laundry and Sharokhan Restaurant",
+    "hours": "24 Hrs",
+    "hoursPerDay": 24,
+    "mapUrl": "https://maps.app.goo.gl/UZeZb9CXepTwGg1e9",
+    "lat": 29.2469546,
+    "lng": 48.0835345
+  },
+  {
+    "brand": "Mishmash",
+    "branch": "Mahboula",
+    "address": "Mahboula - Block 2 - Street 10 - Near From Grand Hyper",
+    "hours": "24 Hrs",
+    "hoursPerDay": 24,
+    "mapUrl": "https://maps.app.goo.gl/VJfQmQGvi4xjutEX8",
+    "lat": 29.2956628,
+    "lng": 47.9068772
+  },
+  {
+    "brand": "Mishmash",
+    "branch": "Jabriya",
+    "address": "Jabriya - Block 1 B - Street 111 - Beside Mr. Baker",
+    "hours": "24 Hrs",
+    "hoursPerDay": 24,
+    "mapUrl": "https://maps.app.goo.gl/7pFaJe5icwwKcRhQA",
+    "lat": 29.0856036,
+    "lng": 48.1179529
+  },
+  {
+    "brand": "Mishmash",
+    "branch": "Salmiya",
+    "address": "Salmiya - Block 9 - Sayeed Yaseen Al Tabtabaie Street - In Front of Nayef Restaurant",
+    "hours": "24 Hrs",
+    "hoursPerDay": 24,
+    "mapUrl": "https://maps.app.goo.gl/mwiaz7FbLgbX9oTa9",
+    "lat": 29.3403615,
+    "lng": 48.0363429
+  },
+  {
+    "brand": "Mishmash",
+    "branch": "Khaitan",
+    "address": "Khaitan - Block 8 - Mazen Street / Airport Road - Same Building for Herbal Spa Khaitan",
+    "hours": "24 Hrs",
+    "hoursPerDay": 24,
+    "mapUrl": "https://maps.app.goo.gl/899ghvxRes9bnujf9",
+    "lat": 28.7690571,
+    "lng": 48.0623876
+  },
+  {
+    "brand": "Mishmash",
+    "branch": "S-Salem",
+    "address": "S-Salem - Block 1 - Street Mohamad Tahous Nasser Bin Tahous Street  - Near From Toy Story Shop",
+    "hours": "24 Hrs",
+    "hoursPerDay": 24,
+    "mapUrl": "https://maps.app.goo.gl/639emqjiqTJKSv8w5",
+    "lat": 29.3013043,
+    "lng": 47.881051
+  },
+  {
+    "brand": "Mishmash",
+    "branch": "S-Abdallah",
+    "address": "Amghara Industrial - Block 4 - Souq Al-Aysh Building (Beside Hardez Restaurant)",
+    "hours": "24 Hrs",
+    "hoursPerDay": 24,
+    "mapUrl": "https://maps.app.goo.gl/8eDL1G8UxHsL9rRs7",
+    "lat": 29.3529868,
+    "lng": 47.9799307
+  },
+  {
+    "brand": "Mishmash",
+    "branch": "Kaifan",
+    "address": "Kaifan - Block 5 -  Al-Suwais Street - Out of Kuwait Club Stadium",
+    "hours": "10:00 AM - 03:00 AM",
+    "hoursPerDay": 17,
+    "mapUrl": "https://maps.app.goo.gl/fVAC98c7NLmkAp1U7",
+    "lat": 29.3417471,
+    "lng": 47.9501396
+  },
+  {
+    "brand": "Mishmash",
+    "branch": "Qadsiya",
+    "address": "Qadsiya - Block 5 - Abdul aziz Mohammad Alduaj street -  Beside Qadsiya Co-Operative Society",
+    "hours": "10:00 AM - 03:00 AM",
+    "hoursPerDay": 17,
+    "mapUrl": "https://maps.app.goo.gl/khdcEy9gY3GGna2e7",
+    "lat": 29.1726443,
+    "lng": 48.0911431
+  },
+  {
+    "brand": "Mishmash",
+    "branch": "Salwa",
+    "address": "Salwa - Block 2 - Street 1 - In Front of Salwa Block 2 Co-Operative Society",
+    "hours": "10:00 AM - 03:00 AM",
+    "hoursPerDay": 17,
+    "mapUrl": "https://maps.app.goo.gl/Cq7tYGNKRXjqLWJT6",
+    "lat": 29.3064975,
+    "lng": 48.0688331
+  },
+  {
+    "brand": "Mishmash",
+    "branch": "Qurain",
+    "address": "Qurain - Block 4 - Street 202 - Between Between Deboned Restaurant and The Corn Club Restaurant",
+    "hours": "10:00 AM - 03:00 AM",
+    "hoursPerDay": 17,
+    "mapUrl": "https://maps.app.goo.gl/NE4A6GDjBM63yQSz9",
+    "lat": 29.306233,
+    "lng": 48.0687601
+  },
+  {
+    "brand": "Mishmash",
+    "branch": "Mangaf",
+    "address": "Mangaf - Block 1 - Hamad Nayif Al Dabous Street - Beside Wadi Al Ghroub Restaurant",
+    "hours": "11:00 AM - 04:00 AM",
+    "hoursPerDay": 17,
+    "mapUrl": "https://maps.app.goo.gl/YY25GsnRxwmSvfq67",
+    "lat": 29.2092679,
+    "lng": 48.1025361
+  },
+  {
+    "brand": "Mishmash",
+    "branch": "W-Abdullah",
+    "address": "Sulaibiya Agricultural - Block 9 - In Front of West Abdullah Al Mubarak Block 1 - Sulaibiya Rd\n - Same Building  of Subway ,Burger King and Deboned Restaurants",
+    "hours": "11:00 AM - 04:00 AM",
+    "hoursPerDay": 17,
+    "mapUrl": "https://maps.app.goo.gl/EE3AmT4wghFUM8N36",
+    "lat": 29.3530016,
+    "lng": 47.6710761
+  },
+  {
+    "brand": "Mishmash",
+    "branch": "Khairan",
+    "address": "Sabah Al-Ahmad Al-marine - Block A2 - Parcel 1118 - PACI NO 94307774",
+    "hours": "11:00 AM - 04:00 AM",
+    "hoursPerDay": 17,
+    "mapUrl": "https://maps.app.goo.gl/sPAnBBA3xQy5oYPb9",
+    "lat": 28.6213236,
+    "lng": 47.9855535
+  },
+  {
+    "brand": "Tabel",
+    "branch": "Qortuba",
+    "address": "Qortuba - Block 4 - St 1 Lane 12 - Parcel 465 - PACI NO 90489099",
+    "hours": "10:00 AM - 03:00 AM",
+    "hoursPerDay": 17,
+    "mapUrl": "https://maps.app.goo.gl/3yv8pAzbQ5BGGKtk7",
+    "lat": 29.3122862,
+    "lng": 47.9808851
+  },
+  {
+    "brand": "Tabel",
+    "branch": "Ardiya",
+    "address": "Ardiya Herfiya - Block 5 - Homoud Al-Jaber Al-Sabah Rd - Beside 45 Min. Laundry and Sharokhan Restaurant",
+    "hours": "11:00 AM - 04:00 AM",
+    "hoursPerDay": 17,
+    "mapUrl": "https://maps.app.goo.gl/DUF7M18dZTnmLfm38",
+    "lat": 29.2931352,
+    "lng": 47.9056464
+  },
+  {
+    "brand": "Tabel",
+    "branch": "Hawally",
+    "address": "Hawalli - Block 9 - St 242 - Parcel 9452 - PACI NO 93293833",
+    "hours": "11:00 AM - 04:00 AM",
+    "hoursPerDay": 17,
+    "mapUrl": "https://maps.app.goo.gl/KqDqX7hoCj12afy46",
+    "lat": 29.3272348,
+    "lng": 48.0248883
+  },
+  {
+    "brand": "Tabel",
+    "branch": "Sabah Al-Salam",
+    "address": "Sabah Al-Salem - Block 3 - St 304 - Parcel 84 - PACI NO 95369336",
+    "hours": "11:00 AM - 04:00 AM",
+    "hoursPerDay": 17,
+    "mapUrl": "https://maps.app.goo.gl/j32gt4aJLtDfcawZA",
+    "lat": 29.2544016,
+    "lng": 48.0813176
+  },
+  {
+    "brand": "Tabel",
+    "branch": "Bneid Al Qar",
+    "address": "Bnaid Al-Qar - Block 1 - Al-Shareef Al-Radi St - Parcel 202Ø§ - Mall 7 - PACI NO 92987454",
+    "hours": "11:00 AM - 04:00 AM",
+    "hoursPerDay": 17,
+    "mapUrl": "https://maps.app.goo.gl/PU23WsnZ1TRnhffV7",
+    "lat": 29.3694793,
+    "lng": 48.0051027
+  },
+  {
+    "brand": "Tabel",
+    "branch": "East Ahmadi",
+    "address": "East Ahmadi - Block 9 - 202nd Road - Parcel 177 - PACI NO 95156568",
+    "hours": "11:00 AM - 04:00 AM",
+    "hoursPerDay": 17,
+    "mapUrl": "https://maps.app.goo.gl/E4CLGmaFt6Jvu57eA",
+    "lat": 29.0847461,
+    "lng": 48.0799889
+  },
+  {
+    "brand": "Tabel",
+    "branch": "SalmiyaÂ",
+    "address": "Salmiya - Block 11 - Parcel 570 - Building 115 - PACI NO 94934292",
+    "hours": "11:00 AM - 04:00 AM",
+    "hoursPerDay": 17,
+    "mapUrl": "https://maps.app.goo.gl/L2KQakTyp84En4ZH7",
+    "lat": 29.336684,
+    "lng": 48.0499842
+  },
+  {
+    "brand": "Tabel",
+    "branch": "Mahboula",
+    "address": "Mahboula - Block 1 - St 109 - Parcel 130 - PACI NO 93470027",
+    "hours": "11:00 AM - 04:00 AM",
+    "hoursPerDay": 17,
+    "mapUrl": "https://maps.app.goo.gl/yjAvUF71RDzqVfZv5",
+    "lat": 29.1573837,
+    "lng": 48.1157607
+  },
+  {
+    "brand": "Tabel",
+    "branch": "Jahra",
+    "address": "Jahra - Block 2 - Parcel 2048 - PACI NO 92461428",
+    "hours": "11:00 AM - 04:00 AM",
+    "hoursPerDay": 17,
+    "mapUrl": "https://maps.app.goo.gl/W4wamKe5L8YAtj9y8",
+    "lat": 29.3532391,
+    "lng": 47.6685677
+  },
+  {
+    "brand": "Tabel",
+    "branch": "Khairan",
+    "address": "Sabah Al-Ahmad Al-marine - Block A2 - Parcel 1118 - PACI NO 94307774",
+    "hours": "11:00 AM - 04:00 AM",
+    "hoursPerDay": 17,
+    "mapUrl": "https://maps.app.goo.gl/6xDzp7noWepxh2v49",
+    "lat": 28.6794828,
+    "lng": 48.3719244
+  },
+  {
+    "brand": "Chilli Pepper",
+    "branch": "Qortuba",
+    "address": "Qortuba - Block 5 - Abu Ayob Al-Ansary St - Parcel 900006 - PACI",
+    "hours": "12:00 PM - 01:30 AM",
+    "hoursPerDay": 13.5,
+    "mapUrl": "https://maps.app.goo.gl/NWWXp9V9pXqwig8p8",
+    "lat": 29.3128374,
+    "lng": 47.9850869
+  },
+  {
+    "brand": "Chilli Pepper",
+    "branch": "Yard",
+    "address": "Fnaitees - Block 5 Yard Mall",
+    "hours": "12:00 PM - 01:30 AM",
+    "hoursPerDay": 13.5,
+    "mapUrl": "https://goo.gl/maps/YUmH5EgZdoV4gFfY6",
+    "lat": 29.2148247,
+    "lng": 48.1010051
+  },
+  {
+    "brand": "Chilli Pepper",
+    "branch": "Hawally",
+    "address": "Hawally - Block 4 - Al Muthanna St",
+    "hours": "12:00 PM - 01:30 AM",
+    "hoursPerDay": 13.5,
+    "mapUrl": "https://maps.app.goo.gl/88KH8MJpxxpu4Bzu9",
+    "lat": 29.3401595,
+    "lng": 48.0254221
+  },
+  {
+    "brand": "Just C",
+    "branch": "Qortuba",
+    "address": "Qortuba - Block 5 - Abu Ayob Al-Ansary St - Parcel 900006 - PACI",
+    "hours": "12:00 PM - 01:30 AM",
+    "hoursPerDay": 13.5,
+    "mapUrl": "https://maps.app.goo.gl/NWWXp9V9pXqwig8p8",
+    "lat": 29.3128374,
+    "lng": 47.9850869
+  },
+  {
+    "brand": "Just C",
+    "branch": "Yard",
+    "address": "Fnaitees - Block 5 Yard Mall",
+    "hours": "12:00 PM - 01:30 AM",
+    "hoursPerDay": 13.5,
+    "mapUrl": "https://goo.gl/maps/YUmH5EgZdoV4gFfY6",
+    "lat": 29.2148247,
+    "lng": 48.1010051
+  },
+  {
+    "brand": "Forevermore",
+    "branch": "Khaitan",
+    "address": "Khaitan - Block 4 - St 99 - Parcel 76Ø§ - Building 19 - PACI NO 93964393",
+    "hours": "06:30 AM - 11:30 PM",
+    "hoursPerDay": 17,
+    "mapUrl": "https://maps.app.goo.gl/JcXF97EaTNzB5Srx5",
+    "lat": 29.2791967,
+    "lng": 47.9732223
+  },
+  {
+    "brand": "Forevermore",
+    "branch": "City",
+    "address": "Qibla - Block 13 - Sour St - Parcel 22 - PACI NO 90013031",
+    "hours": "06:30 AM - 11:30 PM",
+    "hoursPerDay": 17,
+    "mapUrl": "https://maps.app.goo.gl/nQqUEPJCvfqdRUWS9",
+    "lat": 29.3610613,
+    "lng": 47.9680656
+  },
+  {
+    "brand": "Forevermore",
+    "branch": "Yard",
+    "address": "Al-Fnaitees - Block 9 - St 46 - Parcel 260 - PACI NO 94329519",
+    "hours": "06:30 AM - 11:30 PM",
+    "hoursPerDay": 17,
+    "mapUrl": "https://maps.app.goo.gl/i4SGwZt7yq1dEJhDA",
+    "lat": 29.2147323,
+    "lng": 48.1029779
+  },
+  {
+    "brand": "Forevermore",
+    "branch": "Hawally",
+    "address": "Hawally - Block 4 - Al Muthanna St",
+    "hours": "06:30 AM - 11:30 PM",
+    "hoursPerDay": 17,
+    "mapUrl": "https://maps.app.goo.gl/88KH8MJpxxpu4Bzu9",
+    "lat": 29.3401595,
+    "lng": 48.0254221
+  }
+]

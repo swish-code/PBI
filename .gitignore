@@ -1,0 +1,32 @@
+# dependencies & build output
+node_modules/
+dist/
+
+# secrets & env (NEVER commit) — keep the .example templates only
+server/.env
+server/.env.local
+**/.env
+**/.env.local
+**/.env.local.*
+!**/.env.local.example
+!**/.env.example
+
+# server-generated secrets / tokens / caches / audit data
+server/.pbi-token.json
+server/data/.jwtsecret
+server/data/.secret
+server/data/viz-cache*.json
+# dev user accounts (bcrypt hashes) + audit log — regenerated on a fresh install
+server/data/users.json
+server/data/audit.json
+
+# logs & os cruft
+*.log
+.DS_Store
+Thumbs.db
+
+# local harness state
+.claude/
+
+# runtime engagement/usage data (regenerated on the host)
+server/data/engagement/
