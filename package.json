@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "engines": {
-    "node": ">=18"
+    "node": "22.x"
   },
   "scripts": {
     "dev": "concurrently -n waiter,website -c yellow,cyan \"node server/server.js\" \"vite\"",
